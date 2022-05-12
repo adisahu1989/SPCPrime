@@ -3,11 +3,11 @@
         "downloadUrl": "https://raw.githubusercontent.com/adisahu1989/SPCPrime/main/app-release.apk"
     },
 
-    "0.2": {
+    "78.1.1": {
     "versionCode": 78,
     "changelog": ["New automatic update checker", "Improved template interactions"]
     },
-    "0.1": {
+    "77.1.1": {
     "versionCode": 77,
     "changelog": ["fixed crash"]
     }
