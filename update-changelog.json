@@ -1,10 +1,13 @@
 {
-  "latestVersion": "78.1.1",
-  "latestVersionCode": "78",
-  "url": "https://raw.githubusercontent.com/adisahu1989/SPCPrime/main/app-release.apk",
-  "releaseNotes": [
-    "Adjust Volume Option Enable",
-	"Remain duration Error in OTT player",
-	"Tour Guide",
-  ]
+    "package": {
+        "downloadUrl": "https://raw.githubusercontent.com/adisahu1989/SPCPrime/main/app-release.apk"
+    },
+    "0.78": {
+    "versionCode": 78,
+    "changelog": ["Adjust Volume Option Enable", "Remain duration Error in OTT player", "Tour Guide",]
+    },
+    "0.77": {
+    "versionCode": 77,
+    "changelog": ["fixed crash"]
+    }
 }
