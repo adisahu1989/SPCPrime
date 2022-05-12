@@ -1,10 +1,10 @@
 {
   "latestVersion": "78.1.1",
   "latestVersionCode": "78",
-  "url": "https://github.com/adisahu1989/SPCPrime/blob/main/app-release.apk",
+  "url": "https://raw.githubusercontent.com/adisahu1989/SPCPrime/main/app-release.apk",
   "releaseNotes": [
     "Adjust Volume Option Enable",
 	"Remain duration Error in OTT player",
-	"Tour Guide"
+	"Tour Guide",
   ]
 }
